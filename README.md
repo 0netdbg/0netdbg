@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="./banner.jpg" alt="0netdbg banner" width="100%" />
-</p>
-
 # Welcome to my GitHub
 
 ## About Me
+
+<img src="./dog.png" alt="0netdbg dog" align="left" width="260" />
 
 I am known online as **0netdbg**.  
 I am based in **Germany** and have more than **40 years of experience with computers**. My first introduction to programming was through **BASIC**.
@@ -12,6 +10,8 @@ I am based in **Germany** and have more than **40 years of experience with compu
 For around **15 years**, my main focus has been the **security of complete systems**. As an **autodidact**, I continuously expand my knowledge and skills in areas such as **Cyber Security**, **CEH (Certified Ethical Hacker)**, **Operations Security (OPSEC)**, **Low-Level development**, **Assembly**, and **Python**.
 
 On my GitHub, you will find projects, experiments, and technical work related to security, analysis, low-level development, and similar fields.
+
+<br clear="left"/>
 
 ## Info
 
@@ -37,7 +37,7 @@ On my GitHub, you will find projects, experiments, and technical work related to
 
 ## Stats
 
-<p align="center">
+<p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=0netdbg&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0netdbg&layout=compact&theme=github_dark&hide_border=true" />
 </p>
