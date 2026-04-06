@@ -2,9 +2,9 @@
 
 ## About Me
 
-<img src="./banner.jpg" alt="0netdbg dog" align="left" width="260" />
+<img src="./banner.jpg" alt="0netdbg dog" align="left" width="300" />
 
-I am known online as **0netdbg** and I am based in **Germany**. With **more than 40 years of experience with computers**, I have developed a strong technical background shaped by continuous learning and hands-on work. My first introduction to programming was through **BASIC**, which sparked a lasting interest in low-level systems and computer technology.
+I am known online as **0netdbg** and I am based in **Germany**. With more than **40 years of experience with computers**, I have built a strong technical background through continuous learning and hands-on work. My first introduction to programming was through **BASIC**, which sparked a lasting interest in low-level systems and computer technology.
 
 For around **15 years**, my primary focus has been the **security of complete systems**. As an **autodidact**, I continuously expand my knowledge in areas such as **Cyber Security**, **CEH (Certified Ethical Hacker)**, **Operations Security (OPSEC)**, **Low-Level development**, **Assembly**, and **Python**.
 
@@ -22,17 +22,6 @@ This GitHub profile is where I share projects, experiments, and technical work r
 - **Main interests:** Cyber Security, OPSEC, Low Level, Assembly, Python
 - **Tools and topics:** CheatEngine, Guided Hacking, Cyber Security
 - **Ask me about:** System Security, low-level topics, and technical analysis
-
-## Focus
-
-![Low Level](https://img.shields.io/badge/Low%20Level-111?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly-111?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Cyber Security](https://img.shields.io/badge/Cyber--Security-111?style=for-the-badge)
-![CEH](https://img.shields.io/badge/CEH-111?style=for-the-badge)
-![OPSEC](https://img.shields.io/badge/OPSEC-111?style=for-the-badge)
-![Cheat Engine](https://img.shields.io/badge/CheatEngine-111?style=for-the-badge)
-![Guided Hacking](https://img.shields.io/badge/Guided%20Hacking-111?style=for-the-badge)
 
 ## Stats
 
