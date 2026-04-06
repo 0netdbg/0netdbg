@@ -16,11 +16,11 @@ This GitHub profile is where I share projects, experiments, and technical work r
 
 - **Alias:** 0netdbg
 - **Location:** Germany
-- **Current Project:** **S2-Mod-v2**
+- **Current Project's:** **GH-Studium** **S2-Mod-v2**
 - **Background:** Autodidact with over 40 years of computer experience
 - **First programming language:** **BASIC**
-- **Main interests:** Cyber Security, OPSEC, Low Level, Assembly, Python
-- **Tools and topics:** CheatEngine, Guided Hacking, Cyber Security
+- **Main interests:** Cyber Security, OPSEC, Low Level, Assembly, Python, Game Modifications
+- **Tools and topics:** Hacking, Reverse Engineering, Cyber Security, Black Hat, Red Team, Blue Team, White Hat
 - **Ask me about:** System Security, low-level topics, and technical analysis
 
 ## Stats
