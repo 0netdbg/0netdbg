@@ -2,14 +2,13 @@
 
 ## About Me
 
-<img src="./dog.png" alt="0netdbg dog" align="left" width="260" />
+<img src="./banner.jpg" alt="0netdbg dog" align="left" width="260" />
 
-I am known online as **0netdbg**.  
-I am based in **Germany** and have more than **40 years of experience with computers**. My first introduction to programming was through **BASIC**.
+I am known online as **0netdbg** and I am based in **Germany**. With **more than 40 years of experience with computers**, I have developed a strong technical background shaped by continuous learning and hands-on work. My first introduction to programming was through **BASIC**, which sparked a lasting interest in low-level systems and computer technology.
 
-For around **15 years**, my main focus has been the **security of complete systems**. As an **autodidact**, I continuously expand my knowledge and skills in areas such as **Cyber Security**, **CEH (Certified Ethical Hacker)**, **Operations Security (OPSEC)**, **Low-Level development**, **Assembly**, and **Python**.
+For around **15 years**, my primary focus has been the **security of complete systems**. As an **autodidact**, I continuously expand my knowledge in areas such as **Cyber Security**, **CEH (Certified Ethical Hacker)**, **Operations Security (OPSEC)**, **Low-Level development**, **Assembly**, and **Python**.
 
-On my GitHub, you will find projects, experiments, and technical work related to security, analysis, low-level development, and similar fields.
+This GitHub profile is where I share projects, experiments, and technical work related to security, analysis, reverse engineering, and system-level development.
 
 <br clear="left"/>
 
