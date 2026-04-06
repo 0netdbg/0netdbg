@@ -16,7 +16,7 @@
 
 I am known online as **0netdbg** and I am based in **Germany**. With more than **40 years of experience with computers**, I have built a strong technical background through continuous learning and hands-on work. My first introduction to programming was through **BASIC**, which sparked a lasting interest in low-level systems and computer technology.
 
-For around **15 years**, my primary focus has been the **security of complete systems**. As an **autodidact**, I continuously expand my knowledge in areas such as **Cyber Security**, **CEH (Certified Ethical Hacker)**, **Operations Security (OPSEC)**, **Low-Level development**, **Assembly**, and **Python**.
+For around **15 years**, my primary focus has been the **security of complete systems**. As an **autodidact**, I continuously expand my knowledge in areas such as **Cyber Security**, **Certified Ethical Hacker (CEH)**, **Operations Security (OPSEC)**, **Low-Level development**, **Reverse Engineering**
 
 This GitHub profile is where I share projects, experiments, and technical work related to security, analysis, reverse engineering, and system-level development.
 
