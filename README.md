@@ -7,11 +7,12 @@
   <img src="https://img.shields.io/badge/OPSEC-111?style=for-the-badge" alt="OPSEC" />
   <img src="https://img.shields.io/badge/Low%20Level-111?style=for-the-badge" alt="Low Level" />
   <img src="https://img.shields.io/badge/Assembly-111?style=for-the-badge" alt="Assembly" />
-  </p>
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" alt="Python" />
+</p>
 
 ## About Me
 
-<img src="./banner.jpg" alt="0netdbg dog" align="right" width="260" />
+<img src="./banner.jpg" alt="0netdbg dog" align="right" width="240" />
 
 I am known online as **0netdbg** and I am based in **Germany**. With more than **40 years of experience with computers**, I have built a strong technical background through continuous learning and hands-on work. My first introduction to programming was through **BASIC**, which sparked a lasting interest in low-level systems and computer technology.
 
