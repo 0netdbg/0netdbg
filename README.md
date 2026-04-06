@@ -1,8 +1,17 @@
 # Welcome to my GitHub
 
+### Cyber Security | OPSEC | Low-Level | Assembly | Python
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cyber%20Security-111?style=for-the-badge" alt="Cyber Security" />
+  <img src="https://img.shields.io/badge/OPSEC-111?style=for-the-badge" alt="OPSEC" />
+  <img src="https://img.shields.io/badge/Low%20Level-111?style=for-the-badge" alt="Low Level" />
+  <img src="https://img.shields.io/badge/Assembly-111?style=for-the-badge" alt="Assembly" />
+  </p>
+
 ## About Me
 
-<img src="./banner.jpg" alt="0netdbg dog" align="left" width="300" />
+<img src="./banner.jpg" alt="0netdbg dog" align="right" width="260" />
 
 I am known online as **0netdbg** and I am based in **Germany**. With more than **40 years of experience with computers**, I have built a strong technical background through continuous learning and hands-on work. My first introduction to programming was through **BASIC**, which sparked a lasting interest in low-level systems and computer technology.
 
@@ -10,22 +19,4 @@ For around **15 years**, my primary focus has been the **security of complete sy
 
 This GitHub profile is where I share projects, experiments, and technical work related to security, analysis, reverse engineering, and system-level development.
 
-<br clear="left"/>
-
-## Info
-
-- **Alias:** 0netdbg
-- **Location:** Germany
-- **Current Project's:** **GH-Studium** **S2-Mod-v2**
-- **Background:** Autodidact with over 40 years of computer experience
-- **First programming language:** **BASIC**
-- **Main interests:** Cyber Security, OPSEC, Low Level, Assembly, Python, Game Modifications
-- **Tools and topics:** Hacking, Reverse Engineering, Cyber Security, Black Hat, Red Team, Blue Team, White Hat
-- **Ask me about:** System Security, low-level topics, and technical analysis
-
-## Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0netdbg&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0netdbg&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<br clear="right"/>
