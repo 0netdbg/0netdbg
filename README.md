@@ -2,9 +2,9 @@
   <img src="./images/banner.png" alt="0netdbg banner" width="100%" />
 </p>
 
-# Welcome to my profile
+# Welcome to my GitHub 👋
 
-## About Me
+## About Me 
 
 My name is **Volker**, also known online as **0netdbg**.  
 I am from **Germany** and come from a long technical background, with **over 40 years of experience working with computers**. My first contact with programming was through **BASIC**.
